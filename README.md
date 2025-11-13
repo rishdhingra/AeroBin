@@ -35,7 +35,7 @@ A production-quality, demo-ready web application showcasing smart waste sensors 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/rishdhingra/AeroBin.git
 cd aerobin
 ```
 

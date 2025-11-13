@@ -1,33 +1,5 @@
 # AeroBin - Smart Waste Management Platform
 
-A production-quality, demo-ready web application showcasing smart waste sensors with real-time bin monitoring, alerts, analytics, AI route simulation, and ROI calculator.
-
-## Prerequisites
-
-Before installing, make sure you have the following installed:
-
-### Node.js and npm
-
-**macOS (using Homebrew):**
-```bash
-brew install node
-```
-
-**Windows:**
-- Download and install from [nodejs.org](https://nodejs.org/)
-- Choose the LTS version
-
-**Linux (Ubuntu/Debian):**
-```bash
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
-
-**Verify installation:**
-```bash
-node --version  # Should be v18 or higher
-npm --version   # Should be 9 or higher
-```
 
 ## Installation
 
